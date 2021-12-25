@@ -1,0 +1,26 @@
+#header{
+    background-color: orange;
+    top: 0px;
+    margin-top: 0px;
+    position: fixed;
+    width: 100%;
+
+}
+
+canvas{
+    border-width: 5px;
+    border-radius: 10px;
+    border-color: white;
+    border-style: solid;
+    box-shadow: turquoise 15,15,15;
+}
+
+#footer{
+    bottom: 0px;
+    margin-bottom: 0px;
+    position: fixed;
+    width: 100%;
+    background-color: gray;
+    color: white;
+    padding: 5px;
+}
